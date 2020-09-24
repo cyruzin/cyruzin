@@ -6,4 +6,4 @@
 
 ##### Hi there! Feel free to message me :)
 
-I love Go, Node, React and Open Source. 
+I love Linux, C, Go, Node, React and Open Source. 
