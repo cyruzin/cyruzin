@@ -6,4 +6,4 @@
 
 ##### Hi there! Feel free to message me :)
 
-I love Linux, C, C++, Go, Node, React and Open Source. Click [here](cyruzin.github.io/curriculum-vitae/) to check my CV.
+I love Linux, C, C++, Go, Node, React and Open Source. Click [here](https://cyruzin.github.io/curriculum-vitae/) to check my CV.
