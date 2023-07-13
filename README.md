@@ -1,6 +1,6 @@
 # Software Engineer / Teacher
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cyro-dubeux-45085b155/)](https://www.linkedin.com/in/cyro-dubeux-45085b155/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cyro-f-d-45085b155/?locale=en_US)](https://www.linkedin.com/in/cyro-f-d-45085b155/?locale=en_US)
 
 ##### Hi there! Feel free to message me :)
 
